@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
     super.initState();
     _desktopUpdaterController = DesktopUpdaterController(
       appArchiveUrl: Uri.parse(
-        "https://github.com/sjgod1427/desktop_demo_updater/blob/main/app-archive.json",
+        "https://raw.githubusercontent.com/sjgod1427/desktop_demo_updater/main/app-archive.json",
       ),
     );
   }
@@ -68,7 +68,7 @@ class _HomeState extends State<Home> {
                   child: const Text("This is a child widget"),
                 ),
               ),
-              const Text("Running on: 1.0.0+3"),
+              const Text("Running on: 1.0.0+4"),
               // Placeholder for platform version string
               const Text("Hello World! Updated\n"),
             ],
