@@ -3,7 +3,7 @@
     "windows": {
       "latest": {
         "version": "1.0.1+3",
-        "url": "https://github.com/sjgod1427/desktop_demo_updater/tree/main/dist/3/1.0.0%2B3-windows",
+        "url": "https://github.com/sjgod1427/desktop_demo_updater/tree/main/dist/3/desktop_demo_updater-1.0.0%2B3-windows",
         "releaseNotes": "• Bug fixes\n• Performance improvements",
         "publishedAt": "2025-05-10T12:00:00Z"
       }
