@@ -1,0 +1,12 @@
+{
+  "platforms": {
+    "windows": {
+      "latest": {
+        "version": "1.0.0+4",
+        "url": "https://yourdomain.com/downloads/demo_desktop_updater-1.0.0+4-windows.zip",
+        "releaseNotes": "• Bug fixes\n• Performance improvements",
+        "publishedAt": "2025-05-10T12:00:00Z"
+      }
+    }
+  }
+}
