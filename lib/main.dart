@@ -70,7 +70,7 @@ class _HomeState extends State<Home> {
               ),
               const Text("Running on: 1.0.0+3"),
               // Placeholder for platform version string
-              const Text("Running on: Windows\n"),
+              const Text("Hello World! Updated\n"),
             ],
           ),
         ),
