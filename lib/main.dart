@@ -1,6 +1,6 @@
 import 'package:desktop_updater/updater_controller.dart';
 import 'package:desktop_updater/widget/update_direct_card.dart';
-import 'package:desktop_updater/widget/update_widget.dart';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
     super.initState();
     _desktopUpdaterController = DesktopUpdaterController(
       appArchiveUrl: Uri.parse(
-        "https://www.yoursite.com/app-archive.json", // replace with your actual URL
+        "https://github.com/sjgod1427/desktop_demo_updater/blob/main/app-archive.json",
       ),
     );
   }
