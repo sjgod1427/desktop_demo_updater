@@ -2,8 +2,8 @@
   "platforms": {
     "windows": {
       "latest": {
-        "version": "1.0.0+4",
-        "url": "https://github.com/sjgod1427/desktop_demo_updater/blob/main/dist/4/desktop_demo_updater-1.0.0%2B4-windows.zip",
+        "version": "1.0.0+8",
+        "url": "https://github.com/sjgod1427/desktop_demo_updater/releases/download/v1.0.0%2B8/desktop_demo_updater-1.0.0+8-windows.zip",
         "releaseNotes": "• Bug fixes\n• Performance improvements",
         "publishedAt": "2025-05-10T12:00:00Z"
       }
