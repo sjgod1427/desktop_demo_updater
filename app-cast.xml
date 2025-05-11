@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>My Flutter App Updates</title>
+    <link>https://yourusername.github.io/flutter-auto-update/appcast.xml</link>
+    <description>Update feed for the Flutter Desktop App</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 1.0.2</title>
+      <sparkle:version>1.0.2</sparkle:version>
+      <description>🛠 Bug fixes and minor improvements.</description>
+      <pubDate>Sun, 11 May 2025 10:00:00 +0000</pubDate>
+      <enclosure
+        url="https://yourusername.github.io/flutter-auto-update/YourAppInstaller.exe"
+        sparkle:version="1.0.2"
+        length="12345678"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

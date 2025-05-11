@@ -68,9 +68,9 @@ class _HomeState extends State<Home> {
                   child: const Text("This is a child widget"),
                 ),
               ),
-              const Text("Running on: 1.0.0+6"),
+              const Text("Running on: 1.0.0+8"),
               // Placeholder for platform version string
-              const Text("Hello World! Updated\n"),
+              const Text("Hello World! Updated last try  \n"),
             ],
           ),
         ),
